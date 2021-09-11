@@ -14,3 +14,9 @@ By the end of this step, you will be able to…
 - Create Spark DataFrames using Parquet files
 - Perform data cleaning using Spark aggregation methods.
 - Use cloud storage as output of Spark jobs.
+<br/>
+<br/>
+- Setup
+'End-of-Day_Data_Load_Notebook' has the Pyspark code to work on the raw preprocessed parquet files, apply correction and save it back to Azure storage
+
+Also, the detailed steps and screenshots are in the document 'End-of-Day Data Load Screenshot'
