@@ -11,6 +11,6 @@ should have the specific schema required by the partition. <br/>
 <br/>
 Learning Objectives:
 By the end of this step, you will be able to…
-● Create Spark DataFrames using Parquet files
-● Perform data cleaning using Spark aggregation methods.
-● Use cloud storage as output of Spark jobs.
+- Create Spark DataFrames using Parquet files
+- Perform data cleaning using Spark aggregation methods.
+- Use cloud storage as output of Spark jobs.
